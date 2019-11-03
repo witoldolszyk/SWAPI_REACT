@@ -1,0 +1,19 @@
+.jumbotron {
+  background-image: url(https://images.unsplash.com/photo-1465101162946-4377e57745c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1357&q=80);
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 4.2em;
+  letter-spacing: 0.1em;
+}
+
+#root {
+  text-align: center;
+  background-color: #010d26;
+  text-transform: uppercase;
+  font-size: 4.2em;
+  letter-spacing: 0.1em;
+  color: #f9f1e9;
+  border-radius: 5px;
+  padding: 25px;
+}
